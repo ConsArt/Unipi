@@ -1,5 +1,5 @@
 """
-	This program takes a txt ASCII file,
+	This program takes a txt ASCII file("sample2.txt"),
 	and processes the file's input, to
 	create its unique hash value.
 """
