@@ -1,2 +1,1 @@
-# Unipi
-Unipi exercises
+# Projects
